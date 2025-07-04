@@ -19,7 +19,8 @@ Total Test Cases: **40**
 
 ## 📁 Files
 
-- **[Daraz_Website](https://nsbm365-my.sharepoint.com/:x:/g/personal/kldanuradha_students_nsbm_ac_lk/Ea6BD5LIaGNNjzuH4IbUNF8B_cAvbNzHdcTf3jr5uWi12g?e=gbMzt8)** – Excel file containing all 40 test cases
+
+- **[📄 View Test Cases on OneDrive](https://nsbm365-my.sharepoint.com/:x:/g/personal/kldanuradha_students_nsbm_ac_lk/Ea6BD5LIaGNNjzuH4IbUNF8B_cAvbNzHdcTf3jr5uWi12g?e=gbMzt8)** – Excel file containing all 40 test cases
 
 ---
 
